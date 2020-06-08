@@ -1,5 +1,7 @@
 # PokerKid
-STM32F030F4Px Header Board
+STM32F030F4Px Header Board. Includes Test Board to check soldering.  
+Compatible with most of STM32 TSSOP20 Microcontrollers.
+<br>
 
 Header Board:  
 ![Header Board Top](https://live.staticflickr.com/65535/49983757106_c422c9c5d5_o.jpg "Header Board Top")

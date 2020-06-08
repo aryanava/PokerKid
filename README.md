@@ -1,5 +1,5 @@
 # PokerKid
-STM32F030F4P6 Header Board
+STM32F030F4Px Header Board
 
 Header Board:  
 ![Header Board Top](https://live.staticflickr.com/65535/49983757106_c422c9c5d5_o.jpg "Header Board Top")

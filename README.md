@@ -1,2 +1,2 @@
 # PokerKid
-STM32F030F4P6 Header Board
+STM32F030F4Px Header Board
